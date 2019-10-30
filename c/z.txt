@@ -1,0 +1,42 @@
+=========== <[ -z- PPL LOGIN ]> ===========
+EMAIL		: aaaa@ii.gikl
+PASS		: b374k
+---------------------- IP Info ----------------------
+IP ADDRESS	: 41.226.238.114
+LOCATION	:  , Tunisia , TND
+BROWSER		: Chrome on Windows 10
+SCREEN		: 1366 x 768
+USER AGENT	: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+TIMEZONE	: 
+TIME		: 25/10/2019 03:38:41am GMT
+=========== <[ THANKS TO SH33NZ0 ]> ===========
+
+
+=========== <[ -z- PPL LOGIN ]> ===========
+EMAIL		: lnemes958@gmail.com
+PASS		: Ta11Ma22
+---------------------- IP Info ----------------------
+IP ADDRESS	: 89.251.41.166
+LOCATION	:  , Hungary , HUF
+BROWSER		: Chrome on Windows 10
+SCREEN		: 1600 x 900
+USER AGENT	: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+TIMEZONE	: 
+TIME		: 25/10/2019 02:14:30pm GMT
+=========== <[ THANKS TO SH33NZ0 ]> ===========
+
+
+=========== <[ -z- PPL LOGIN ]> ===========
+EMAIL		: mruensal@hotmail.de
+PASS		: 13061969v
+---------------------- IP Info ----------------------
+IP ADDRESS	: 109.41.194.22
+LOCATION	:  , Germany , EUR
+BROWSER		: Handheld Browser on Android
+SCREEN		: 360 x 740
+USER AGENT	: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36
+TIMEZONE	: 
+TIME		: 25/10/2019 03:49:26pm GMT
+=========== <[ THANKS TO SH33NZ0 ]> ===========
+
+
